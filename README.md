@@ -6,4 +6,4 @@ Hi 👋, my name is Dmitrii. I specialize in backend web development, CLI tools,
 - [tiempo-tracker](https://github.com/dmikhr/tiempo-tracker) (Python) - CLI time tracker. Especially convenient for users who work with window managers or multiple terminal panes. 📝 Article about the app: [Building CLI time tracker with Python](https://dev.to/dmikhr/building-cli-time-tracker-with-python-o0g)
 - [DudeGL](https://github.com/dmikhr/DudeGL) (Ruby) - a tool for visual code analysis and teaching OOP concepts ([see example](https://github.com/dmikhr/DudeGL/wiki/Git-diff-visualization)). Featured on a software engineering podcast [Ruby Rogues #668](https://podcasts.apple.com/gb/podcast/rules-of-oop-in-pictures-with-ivan-nemytchenko-ruby-668/id1237406856?i=1000683474802).
 
-📫 Reach me at:  [LinkedIn](https://www.linkedin.com/in/dpkhr)
+📫 Reach me at:  [LinkedIn](https://www.linkedin.com/in/dpkhr) | ✍️ [Check my articles](https://github.com/dmikhr/dmikhr/blob/main/publications.md)
